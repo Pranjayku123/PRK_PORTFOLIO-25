@@ -162,7 +162,10 @@ html {
 }
 
 /* common content styling */
-
+.subTitle{
+  font-size: 14px;
+  font-style: italic;
+}
 section .title {
   position: relative;
   margin-bottom: 60px;
