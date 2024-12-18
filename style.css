@@ -1,9 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 * {
   padding: 0;
   margin: 0;
   text-decoration: none;
   box-sizing: border-box;
-  font-family: "Poppins";
+  font-family: "Montserrat", serif;
 }
 
 html {
@@ -15,7 +16,7 @@ html {
   margin: auto;
 }
 
-/* ======= Navbar Styling ========= */
+/* ======= Navbar Styling ========= */ 
 
 .navbar .max-width {
   display: flex;
