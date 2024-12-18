@@ -30,14 +30,14 @@ $(document).ready(function(){
 
     var typed = new Typed(".typing",{
         strings: ["React Developer","Web Developer", "Full Stack Developer"],
-        typeSpeed: 50,
-        backSpeed: 20,
+        typeSpeed: 80,
+        backSpeed: 100,
         loop: true
     });
     var typed = new Typed(".typing-2",{
         strings: ["React Developer","Web Developer", "Full Stack Developer",],
-        typeSpeed: 50,
-        backSpeed: 20,
+        typeSpeed: 80,
+        backSpeed: 100,
         loop: true
     });
 
