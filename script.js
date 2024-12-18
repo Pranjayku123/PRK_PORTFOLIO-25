@@ -31,13 +31,13 @@ $(document).ready(function(){
     var typed = new Typed(".typing",{
         strings: ["React Developer","Web Developer", "Full Stack Developer"],
         typeSpeed: 50,
-        backSpeed: 60,
+        backSpeed: 20,
         loop: true
     });
     var typed = new Typed(".typing-2",{
         strings: ["React Developer","Web Developer", "Full Stack Developer",],
         typeSpeed: 50,
-        backSpeed: 60,
+        backSpeed: 20,
         loop: true
     });
 
